@@ -1,0 +1,2 @@
+# Same repo is used from macOS and Windows: keep LF in the repo and working tree.
+* text=auto eol=lf
